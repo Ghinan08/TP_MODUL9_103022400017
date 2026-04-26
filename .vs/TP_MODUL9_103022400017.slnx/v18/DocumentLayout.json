@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{07E3F4E2-E192-0486-90C9-49C59EDA11C6}|TP_MODUL9_103022400017\\TP_MODUL9_103022400017.csproj|f:\\folder ghinan\\visual studio\\tp_modul9_103022400017\\tp_modul9_103022400017\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07E3F4E2-E192-0486-90C9-49C59EDA11C6}|TP_MODUL9_103022400017\\TP_MODUL9_103022400017.csproj|solutionrelative:tp_modul9_103022400017\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E3F4E2-E192-0486-90C9-49C59EDA11C6}|TP_MODUL9_103022400017\\TP_MODUL9_103022400017.csproj|f:\\folder ghinan\\visual studio\\tp_modul9_103022400017\\tp_modul9_103022400017\\covidconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E3F4E2-E192-0486-90C9-49C59EDA11C6}|TP_MODUL9_103022400017\\TP_MODUL9_103022400017.csproj|solutionrelative:tp_modul9_103022400017\\covidconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CovidConfig.cs",
+              "DocumentMoniker": "F:\\Folder GHINAN\\Visual Studio\\TP_MODUL9_103022400017\\TP_MODUL9_103022400017\\CovidConfig.cs",
+              "RelativeDocumentMoniker": "TP_MODUL9_103022400017\\CovidConfig.cs",
+              "ToolTip": "F:\\Folder GHINAN\\Visual Studio\\TP_MODUL9_103022400017\\TP_MODUL9_103022400017\\CovidConfig.cs",
+              "RelativeToolTip": "TP_MODUL9_103022400017\\CovidConfig.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T09:16:12.869Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,7 +45,7 @@
               "RelativeDocumentMoniker": "TP_MODUL9_103022400017\\Program.cs",
               "ToolTip": "F:\\Folder GHINAN\\Visual Studio\\TP_MODUL9_103022400017\\TP_MODUL9_103022400017\\Program.cs",
               "RelativeToolTip": "TP_MODUL9_103022400017\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-26T06:44:43.656Z",
               "EditorCaption": ""
